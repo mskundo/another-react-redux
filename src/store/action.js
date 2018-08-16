@@ -1,0 +1,4 @@
+
+const ADD_CUSTOMER='ADD_CUSTOMER'
+
+export default ADD_CUSTOMER

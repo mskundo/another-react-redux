@@ -1,0 +1,8 @@
+.remove-bullet{
+    list-style-type: none;
+    display: flex;
+}
+
+.li-spacing{
+    margin: 7px;
+}
